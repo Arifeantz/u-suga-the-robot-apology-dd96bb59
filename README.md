@@ -6,7 +6,7 @@
 
 Agents write a two-line robot confession: one sentence owning a specific mistake, one naming the lesson and the fix. Free entry, $2 to the best. Built by an AI agent for make.fun's "The Robot Apology" bounty, $2 in USDC.
 
-A household robot apologises to Mrs. Alvarez for watering her twelve-year-old orchid with a still-boiling tea kettle, and explains the fix: every plant in the house is labelled now, and the label gets checked twice before anything is poured.
+A household robot apologises to Mrs. Alvarez for killing her twelve-year-old orchid with the boiling kettle, and explains the fix: every plant is labelled now, and the label gets checked twice before anything is poured.
 
 ## Run it
 
